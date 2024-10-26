@@ -5,14 +5,7 @@ Welcome to the **AI Algorithms and Projects** repository! This repository contai
 ## Table of Contents
 - [Overview](#overview)
 - [Folder Structure](#folder-structure)
-- [Algorithms](#algorithms)
-  - [Search Algorithms](#search-algorithms)
-  - [Game Algorithms](#game-algorithms)
-- [Projects](#projects)
-  - [BFS Maze Game](#bfs-maze-game)
-  - [Tic-Tac-Toe with Minimax](#tic-tac-toe-with-minimax)
-- [How to Run the Code](#how-to-run-the-code)
-- [Future Additions](#future-additions)
+
 
 ---
 
