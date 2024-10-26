@@ -1,4 +1,4 @@
-# C++ code for Adjacency_list
+# C++ code for Adjacency list
 ```
 
 #include <iostream>
